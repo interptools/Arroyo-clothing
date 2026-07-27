@@ -1,0 +1,4 @@
+{
+  "version": "3.4",
+  "notes": "✓ Print receipt after every sale — auto print dialog\n✓ Print from History — tap any transaction then Print\n✓ Code 128 barcode on receipt — unique TXN ID scannable\n✓ Thermal printer ready — 58mm and 80mm roll supported\n✓ Change due display on post-sale screen\n✓ Unique TXN ID — no more duplicate transactions"
+}
